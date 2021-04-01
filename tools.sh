@@ -27,7 +27,7 @@ else
 sleep 1
    echo $cy"Sedang relog..."
 sleep 3
-sh Tools.sh
+sh tools.sh
 fi
 sleep 1
 clear
