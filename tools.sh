@@ -201,7 +201,7 @@ pip2 install requests
 sleep 1
 toilet DONE
 sleep 3
-sh Tools.sh
+sh tools.sh
 fi
 
 #99
