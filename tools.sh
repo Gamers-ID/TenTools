@@ -201,6 +201,7 @@ pip2 install requests
 sleep 1
 toilet DONE
 sleep 3
+toilet Relog...
 sh tools.sh
 fi
 
